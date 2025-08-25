@@ -8,13 +8,8 @@
 
 <p align="left">I'm Seian from Hell<br><br>- 🔭 I’m working as FE Dev<br>- 📚 I'm currently learning TS, PHP<br>- ⚡ In my free time I coding, watching vtubers</p>
 
-###
 
-###
-
-<img align="right" height="150" src="https://cdn.chimovo.com/public/img/%E3%81%A0%E3%81%84%E3%81%97%E3%81%8D%E3%82%85%E3%83%BC%E3%81%A0%E3%81%84%E3%81%97%E3%82%85%E3%81%8D_p2.png"  />
-
-###
+<h3 align="left">🛠 Language and tools</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -38,6 +33,8 @@
 
 ###
 
+<h3 align="left">Social Media</h3>
+
 <div align="left">
   <a href="https://www.youtube.com/@seian0729" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -48,7 +45,7 @@
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=@seian0729&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 </div>
 
-###
+<h3 align="left">Recently Playlist</h3>
 
 <br clear="both">
 
