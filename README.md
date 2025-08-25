@@ -1,4 +1,14 @@
-<h2 align="left">Hi 👋! My name is Seian and I'm a Frontend Developer, from Hell</h2>
+###
+
+<h1 align="center">Hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+<p align="left">I'm Seian from Hell<br><br>- 🔭 I’m working as FE Dev<br>- 📚 I'm currently learning TS, PHP<br>- ⚡ In my free time I coding, watching vtubers</p>
+
+###
 
 ###
 
